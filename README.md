@@ -26,10 +26,10 @@ Restart Functionality:
 Easily restart the game after a game-over.
 
 🖼️ Screenshots
-<img width="309" alt="Screenshot 2024-12-25 144142" src="https://github.com/user-attachments/assets/b17ded74-4d10-410d-8583-72cf49656002" />
-![Screenshot 2024-12-25 144317](https://github.com/user-attachments/assets/332943d8-affc-4a63-a9cd-a1ef1d3a3209)
-![Screenshot 2024-12-25 144309](https://github.com/user-attachments/assets/27eece1d-6e39-4890-b09c-af9d8eabcd89)
-![Screenshot 2024-12-25 144257](https://github.com/user-attachments/assets/b94769e3-dec3-44b5-9cef-50ca7a16de17)
+<img width="309" alt="Screenshot 2024-12-25 144142" src="https://github.com/user-attachments/assets/684381e2-02bd-48ad-a479-b94109c3c8cf" />
+![Screenshot 2024-12-25 144317](https://github.com/user-attachments/assets/b320187b-85e7-4a22-9574-0f64ed3e35c4)
+![Screenshot 2024-12-25 144309](https://github.com/user-attachments/assets/b5a5838c-d034-4f62-8529-241816129f28)
+![Screenshot 2024-12-25 144257](https://github.com/user-attachments/assets/3f9d5dff-75be-4981-84d1-6fcc801fac4a)
 
 
 🎮 How to Play
